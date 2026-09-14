@@ -212,5 +212,6 @@ Your CSV should have these columns:
 
 **Problem Statement**: Development of an AI-enabled Low Cost Real Time Mine Subsidence Monitoring, Prediction and Early Warning System for Underground Coal Mines in India.
 
-**Team**: [Your Team Name]
+**Team**: Bit master 
+**Creater**: Chinmay Yalawatti
 **Year**: 2026
